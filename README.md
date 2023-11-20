@@ -2,11 +2,9 @@
 </h1>
 <div align="center">
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
-<a href="https://arbeitnow.com/?utm_source=awesome-github-profile-readme"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=arbeitnow&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
+<a href="www.bukanmastah.eu.org"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=team_thesangger&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
 <!-- <img src="http://hits.dwyl.com/abhisheknaiidu/awesome-github-profile-readme.svg" alt="Hits Badge"/> -->
-<img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
-<a href="https://t.me/bukan_mastah"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community"/></a>
-<a href="https://t.me/bukan_mastah" ><img src="https://img.shields.io/twitter/follow/abhisheknaiidu.svg?style=social" /> </a>
+<a href='https://t.me/bukan_mastah' target="_blank"><img alt='telegram' src='https://img.shields.io/badge/@bukan_mastah-100000?style=social&logo=telegram&logoColor=080649&labelColor=black&color=black'/></a>
 <br>
 
 <i>REVERSE ENGINEERING NDESO</i>
