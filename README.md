@@ -18,17 +18,26 @@
 
 <img alt="Awesome GitHub Profile Readme" src="assets/sangger.gif"> </img>
 
-<i>Loved the project? Please consider [donating](https://paypal.me/abhisheknaiidu) to help it improve!</i>
+<i>Loved the project? Please consider [donating](https://paypal.me/RifkyTheSangger) to help it improve!</i>
 
 </div>
 
-### Contents:
-  - [Categories](#categories)
-      - [GitHub Actions 🤖](#github-actions-)
-      - [Game Mode 🚀](#game-mode-)
-      - [Code Mode 👨🏽‍💻](#code-mode-)
-      - [Dynamic Realtime 💫](#dynamic-realtime-)
-      - [A Little Bit of Everything 😃](#a-little-bit-of-everything-)
-      - [Descriptive 🗒](#descriptive-)
-      - [Simple but Innovative Ones 🤗](#simple-but-innovative-ones-)
-      - [Typing.. Mode 🎰](#typing-mode-)
+### My Content:
+  - [ ANDROID DEVELOPER ]
+  - [ MODDER APPS ]
+  - [ REVERSE ENGINEERING NDESO ]
+  - [ UI/UX DESIGNER ]
+
+
+### Admin:
+  - [TEAM THESANGGER]
+      - [ RIFKY THESANGGER ]
+      - [ NAGISA THESANGGER]
+      - [ RIZAL-DEV THESANGGER]
+      - [ NARKO THESANGGER ]
+      - 
+  - [INTERNET GRATIS DISCUSSION]
+      - [ RIFKY THESANGGER ]
+      - [ PAKVE84 ]
+      - [ DIMAS CASPER ]
+      - [ SURUR NASYID YOUNG ]
